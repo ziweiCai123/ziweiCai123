@@ -1,6 +1,6 @@
 # Hi, I'm ziweicai 👋
 
-CS & Information Management undergrad (**South China Normal University × University of Aberdeen**, dual degree, first-class honours). Building things at the intersection of **LLMs, data systems, and daily life**.
+I build things at the intersection of **LLMs, data systems, and daily life**.
 
 I like taking a real problem I personally have — "which stocks?", "where to travel?", "what did I learn today?" — and building the **complete system** for it: data pipeline → models → solvers → UI → ops. No half-projects.
 
@@ -8,7 +8,7 @@ I like taking a real problem I personally have — "which stocks?", "where to tr
 
 | Project | What it is | Highlights |
 |---|---|---|
-| **[niulai](https://github.com/ziweiCai123/niulai)** | A-share quant research platform | 5,900+ stocks since 2016, factor engine, dual backtest engines (event-driven T+1 + vectorized), LightGBM walk-forward (OOS rank-IC +0.12, market-cap-neutral excess +21.8% / IR 0.90), weekly strategy decay patrol + paper trading — fully automated ops |
+| **[niulai](https://github.com/ziweiCai123/niulai)** | A-share quant research platform | 5,900+ stocks since 2016, factor engine, dual backtest engines (event-driven T+1 + vectorized), LightGBM walk-forward ranking model, weekly strategy decay patrol + paper trading — fully automated ops |
 | **[shiji](https://github.com/ziweiCai123/shiji)** | Gamified learning journal from Claude Code sessions | Turns AI pair-programming dialogues into daily structured notes + streaks/badges/skill bars. *"Talk more, fail more, learn more."* |
 | **[trip-planner](https://github.com/ziweiCai123/trip-planner)** | Operations-research travel itinerary platform | OR-Tools CP-SAT multi-day routing, real driving times via AMap API, **weather-aware objective** (sunny-only POIs discounted on rainy days), 7-dimension scoring, risk-hardened battle-plan pages |
 | **[laishilu](https://github.com/ziweiCai123/laishilu)** | A Journey-like memory valley game | Godot 4, procedural terrain + custom spatial/sky shaders, Verlet scarf on a light-spirit, data-driven memories (`memories.json`), world literally heals as you collect memories |
